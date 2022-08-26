@@ -1,0 +1,39 @@
+/* Display */
+.display{
+    background-size: cover;
+    background-position: center;
+    width: 267px;
+    height: 228px;
+    margin-top: 25px;
+    border: 1.5px solid black;
+    padding:3px;
+    display: flex;
+    flex-direction: column;
+}
+
+.blank-div_1{
+    width: 270px;
+    height: 209px;
+    background-size: 99% 100%;
+    background-image: url(../Images/game.gif);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.blank-div{
+    width: 270px;
+    height: 209px;
+    background-color: #020a6e8c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.empty-text{
+    margin: 5px;
+    text-align: center;
+    color: white;
+}

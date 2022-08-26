@@ -1,0 +1,30 @@
+/* Lock icon in lockscreen */
+.lock-display{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.8;
+  width: 267px;
+  height: 170px;
+  font-size: 100px;
+  color: #020a6e8c;
+}
+
+/* Bottom div in lockscreen */
+.bottom-div-lock{
+  width: 267px;
+  height: 40px;
+  background-color: #020a6e8c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  margin-top: 0px;
+  border-radius: 29px;
+}
+
+.bottom-div-lock h3{
+  color: white;
+}
+
+
